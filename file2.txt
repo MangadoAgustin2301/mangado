@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio en main 2
+=======
+Cambios conflictivos 2
+>>>>>>> merge-ko
